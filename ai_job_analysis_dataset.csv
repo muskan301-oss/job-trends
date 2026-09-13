@@ -1,0 +1,21 @@
+company_name,job_title,job_type,location,posted_date,salary_range,experience_level,skills,industry,work_mode,source,company_size
+Google,Machine Learning Engineer,Full-time,"California, USA",2024-11-10,120000-160000,Senior,"Python, TensorFlow, SQL",Tech,Onsite,LinkedIn,Enterprise
+Microsoft,Data Scientist,Full-time,"Washington, USA",2024-11-18,110000-150000,Mid,"Python, Power BI, SQL",Finance,Hybrid,Indeed,Mid-size
+Amazon,AI Researcher,Full-time,"New York, USA",2024-12-02,130000-170000,Senior,"Python, NLP, ML",Tech,Onsite,LinkedIn,Enterprise
+IBM,NLP Engineer,Contract,"Toronto, Canada",2024-12-05,90000-130000,Entry,"Python, SQL, Tableau",Consulting,Remote,Glassdoor,Startup
+Accenture,Data Analyst,Internship,"Bengaluru, India",2024-12-15,25000-40000,Entry,"Excel, SQL, Power BI",Consulting,Hybrid,LinkedIn,Mid-size
+Deloitte,AI Consultant,Full-time,"London, UK",2025-01-03,100000-140000,Mid,"Python, ML, AI Ethics",Tech,Onsite,Indeed,Enterprise
+TCS,Machine Learning Engineer,Full-time,"Mumbai, India",2025-01-12,800000-1200000,Entry,"Python, SQL, Power BI",IT Services,Hybrid,Glassdoor,Mid-size
+Infosys,Data Engineer,Full-time,"Pune, India",2025-02-05,700000-1000000,Mid,"SQL, ETL, Python",IT Services,Onsite,LinkedIn,Enterprise
+NVIDIA,Deep Learning Engineer,Full-time,"California, USA",2025-02-10,150000-200000,Senior,"Python, PyTorch, ML",Hardware,Onsite,Indeed,Enterprise
+Adobe,AI Product Manager,Full-time,"San Jose, USA",2025-03-01,130000-180000,Senior,"Product Mgmt, AI Strategy",Tech,Hybrid,LinkedIn,Enterprise
+Meta,Computer Vision Engineer,Full-time,"Menlo Park, USA",2025-03-10,140000-190000,Senior,"Python, OpenCV, TensorFlow",Tech,Onsite,LinkedIn,Enterprise
+Oracle,AI Data Analyst,Contract,"Austin, USA",2025-03-18,95000-125000,Mid,"Python, Power BI, SQL",Finance,Remote,Indeed,Mid-size
+Wipro,Data Engineer,Full-time,"Hyderabad, India",2025-03-20,750000-950000,Entry,"Python, SQL, ETL",IT Services,Onsite,Glassdoor,Mid-size
+Cognizant,AI Solutions Architect,Full-time,"Chennai, India",2025-03-22,1200000-1600000,Senior,"Python, Cloud, ML",IT Services,Hybrid,LinkedIn,Enterprise
+EY,Business Intelligence Analyst,Full-time,"London, UK",2025-03-25,90000-120000,Mid,"Power BI, SQL, Excel",Consulting,Hybrid,Indeed,Mid-size
+PwC,AI Strategy Consultant,Full-time,"New York, USA",2025-03-28,130000-160000,Senior,"AI Strategy, Python",Consulting,Hybrid,LinkedIn,Enterprise
+Capgemini,Data Scientist,Full-time,"Paris, France",2025-04-02,95000-130000,Mid,"Python, SQL, Tableau",Finance,Remote,Indeed,Mid-size
+Tesla,AI Automation Engineer,Full-time,"Berlin, Germany",2025-04-10,110000-150000,Mid,"Python, Robotics, ML",Hardware,Onsite,Glassdoor,Enterprise
+OpenAI,Research Scientist,Full-time,"San Francisco, USA",2025-04-20,180000-250000,Senior,"Python, Deep Learning, NLP",Tech,Hybrid,LinkedIn,Enterprise
+Zoho,AI Developer,Full-time,"Chennai, India",2025-04-25,800000-1100000,Mid,"Python, TensorFlow, SQL",Tech,Hybrid,Glassdoor,Mid-size
